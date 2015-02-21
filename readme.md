@@ -1,5 +1,6 @@
 flexible-coming-soon-page
 ===
+flexible-coming-soon-page is an easy-to-use, mobile-friendly coming soon web page for your website.  I consists of a single HTML file where you can modify all the settings.
 
 Installation
 ---
