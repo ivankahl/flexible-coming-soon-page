@@ -7,7 +7,7 @@ Simply extract the `comingsoon.html` page to your www folder in your server and 
 
 Configuration
 ---
-Open the `comingsoon.html` file.  Inside the head there is a script element with an id "settings".  Simply change the values is there to suit your values.
+Open the `comingsoon.html` file.  Inside the head there is a script element with an id "settings".  Simply change the values in thee `SETTINGS` variable to suit your values.
 
 The four values you can change are
 
