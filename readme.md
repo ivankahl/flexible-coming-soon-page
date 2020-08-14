@@ -12,7 +12,7 @@ Open the `comingsoon.html` file.  Inside the head there is a script element with
 
 The four values you can change are
 
-###name
+### name
 This is a **required** property.  This should contain the name of your website.
 
 Example:
@@ -22,7 +22,7 @@ Example:
         ...
     }
 
-###path\_to\_logo
+### path\_to\_logo
 This is an **optional** property.  If left out, the page will show the value of the **name** property.  The logo will be resized to be less than 600px by CSS.
 
 Example:
@@ -32,7 +32,7 @@ Example:
         ...
     }
 
-###path\_to\_favicon
+### path\_to\_favicon
 This is an **optional** property.  This is the file path to the favicon that you would like to display on the page.
 
 Example:
@@ -42,7 +42,7 @@ Example:
         ...
     }
 
-###theme
+### theme
 This is an **optional** property.  If left out, the `light` theme will be used by default.
 
 Possible values are `light` and `dark`
